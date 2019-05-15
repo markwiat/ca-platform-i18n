@@ -163,6 +163,8 @@
   "UPDATE_FIRMWARE": "Update firmware",
   "CHANNEL_UPDATED_TITLE": "Channel updated",
   "CHANNEL_UPDATED_BODY": "Channel has been updated successfully",
+  "CHANNEL_SECRET_UPDATED_TITLE": "Channel sercet updated",
+  "CHANNEL_SECRET_UPDATED_BODY": "Channel secret has been updated successfully",
   "CHANNEL_ADDED_TITLE": "Channel added",
   "CHANNEL_ADDED_BODY": "Channel has been added successfully",
   "CHANNELS_REMOVED_TITLE": "Channels removed",
@@ -431,5 +433,7 @@
   "ADDED": "Added",
   "EDIT_PROPERTY": "Edit property",
   "CHANGES_HAVE_BEEN_SUBMITTED": "Changes have been submitted",
-  "BULK_EDIT_SUCCESS_DETAILS": "{{devicesCount}} devices have been modified"
+  "BULK_EDIT_SUCCESS_DETAILS": "{{devicesCount}} devices have been modified",
+  
+  "SAVE_SECRET": "Save secret"
 }
