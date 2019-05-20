@@ -435,5 +435,7 @@
   "CHANGES_HAVE_BEEN_SUBMITTED": "Changes have been submitted",
   "BULK_EDIT_SUCCESS_DETAILS": "{{devicesCount}} devices have been modified",
   
-  "SAVE_SECRET": "Save secret"
+  "SAVE_SECRET": "Save secret",
+  "TYPE_NEW_MQTT_PASSWORD": "Type new mqtt password",
+  "TYPE_NEW_PRE_SHARED_KEY": "Type new pre shared key"
 }
