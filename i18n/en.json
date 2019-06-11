@@ -415,7 +415,7 @@
   "CREATE_NEXT": "Create next token",
   "GENERAL": "General",
   "ACCESS_TOKEN_CREATED_TITLE": "Access token created",
-  "ACCESS_TOKEN__CREATED_BODY": "Access token with id {{id}} created successfully",
+  "ACCESS_TOKEN_CREATED_BODY": "Access token with id {{id}} created successfully",
 
   "ADD_NEW": "Add new",
   "CHOOSE_TAGS": "Choose tags",
